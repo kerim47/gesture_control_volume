@@ -20,7 +20,7 @@ This project implements a hand gesture-based volume control system using MediaPi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/kerim47/hand-gesture-volume-control.git
+   git clone https://github.com/kerim47/gesture_control_volume.git
    ```
 2. Install the required packages:
    ```
@@ -64,7 +64,7 @@ Bu proje, MediaPipe ve bilgisayarlı görü tekniklerini kullanarak el hareketle
 
 1. Bu depoyu klonlayın:
    ```
-   git clone https://github.com/kerim47/el-hareketi-ses-kontrolu.git
+   git clone https://github.com/kerim47/gesture_control_volume.git
    ```
 2. Gerekli paketleri yükleyin:
    ```
